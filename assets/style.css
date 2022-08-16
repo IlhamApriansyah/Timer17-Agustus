@@ -15,11 +15,6 @@ body {
     min-height: 100vh;
     margin: 0;
     color: white;
-    z-index: 0;
-    right: 0;
-    bottom: 0;
-    position: fixed;
-
 }
 
 h1
