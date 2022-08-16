@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     background-image: url('img/17Agustus2022.jpg');
     background-position: center center;
