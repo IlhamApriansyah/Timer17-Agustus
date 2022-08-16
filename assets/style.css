@@ -5,6 +5,8 @@
 }
 body {
     background-size: cover;
+    
+    background-image: url('img/17Agustus2022.jpg');
     background-position: center center;
     font-family: "Poppins",sans-serif;
     display: flex;
@@ -15,20 +17,25 @@ body {
     color: white;
 }
 
-h1 {
-    font-weight: normal;
-    font-size: 3.1rem;
-    margin-top: 5rem;
-    color: red;
-    text-shadow: 2px 1px #f0f0f0;
+h1
+{
+    font-size: 2rem;
+    margin: 2rem;
+    color: white;
+    text-shadow: 2px 2px black;
     text-align: center;
-
 }
+
 .countdown-container {
     display:flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-bottom:2rem;
+    color: white;
+    text-shadow: 2px 2px black;
+    
 }
+
 .big-text {
     font-weight: bold;
     font-size: 5.5rem;
@@ -43,10 +50,10 @@ h1 {
     font-size: 1.3rem;
 }
 
-.credit {
-    font-size: x-small;
-}
-.credit a{
-   font-weight: 700;
-   color: white;
+audio{
+    height: 2rem; 
+    width: 50rem;
+    position: relative;
+    margin-top: 5rem;
+    margin-bottom: auto;
 }
